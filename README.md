@@ -15,7 +15,7 @@ flexibility of services.
 
 <h3>Data Transfer Process Diagram</h3>
 
-![Alt text](API Data transfer Diagram.png "Image alt text")
+![API Data transfer Diagram](https://user-images.githubusercontent.com/126012715/232333720-d906bb13-f4ca-44c1-a180-b0affa4f3c2e.png)
 
 <h3>What is a REST API? What makes an API RESTful?</h3>
 
@@ -31,7 +31,7 @@ relevant information is migrated across the internet.
 
 <h3>HTTP Request Structure Diagram </h3>
 
-![Alt text](HTTP Request Structure diagram.png "Image alt text")
+![HTTP Request Structure diagram](https://user-images.githubusercontent.com/126012715/232333733-3c19ae60-cad0-4f3a-9570-25b9490ad4c6.png)
 
 An HTTP Request structure is made out of three vital components, headers, request line and message body.
 The verbs iterate, GET (retrieve single item OR a list of items), POST (create an item), PUT (update and item), and DELETE (delete and item). These are request methods to indicate a desired action to be performed
@@ -50,7 +50,7 @@ due to rather retrieving data from the server than sending the data. If it does 
 
 The response structure diagram consists of a status line which includes, the Response Code and the HTTP Version. For example, "HTTP/1.1 200 OK" is a status line indicating the version of HTTP the server is using, and the status code "200" meaning it was successful.
 
-![Alt text](HTTP Response Structure Diagram.png "Image alt text")
+![HTTP Response Structure Diagram](https://user-images.githubusercontent.com/126012715/232333744-1f47d5cd-a861-41dd-ae84-d088e88cf4be.png)
 
 <h3>What are the 5 HTTP verbs and what do they do? GET, POST, PUT, PATCH, DELETE ?</h3>
 
